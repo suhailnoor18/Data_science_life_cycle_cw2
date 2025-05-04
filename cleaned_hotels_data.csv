@@ -1,0 +1,142 @@
+Name,Address,Rooms,Grade,District,AGA Division,PS/MC/UC,Logitiute,Latitude,Region,Hotel_Size_Category,Hotel_Type
+CINNAMON GRAND HOTEL,"NO. 77, GALLE ROAD, COLOMBO 03",501,5,Colombo,Colombo,Colombo Divisional Secretariat,79.849235,6.918034,Western,Large,Luxury
+CINNAMON LAKESIDE COLOMBO,"115, SRI CHITAMPALAM A GARDINER MAWATHA, COLOMBO 02",352,5,Colombo,Colombo,Colombo Divisional Secretariat,79.849414,6.929273,Western,Large,Luxury
+CINNAMON LODGE,"P.O. BOX 02, HABARANE",162,5,Anuradhapura,Anuradhapura,Anuradhapura East,80.74881,8.034584,North Central,Medium,Other
+GALADARI HOTEL,"NO. 64, LOTUS ROAD, COLOMBO 01",408,3,Colombo,Colombo,Colombo Divisional Secretariat,79.843155,6.931679,Western,Large,Mid-range
+EDEN RESORTS AND SPA,"KALUWAMODARA, BERUWALA",158,5,Kalutara,Kalutara Pradeshiya Sabha,Kalmunai Divisional Secretariat,79.990213,6.444585,Western,Medium,Other
+HERITANCE KANDALAMA,"P.O. BOX 11, DAMBULLA.",162,5,Matale,Matale,Matale Divisional Secretariat,80.70784,7.871055,Central,Medium,Other
+TAJ SAMUDRA HOTEL,"NO. 25, GALLE FACE CENTER ROAD, COLOMBO 03",291,5,Colombo,Colombo,Colombo Divisional Secretariat,79.846841,6.922654,Western,Medium,Other
+EARLS REGENCY HOTEL,"TENNEKUMURA, KANDY",96,5,Kandy,Kandy,Kandy Divisional Secretariat,80.669495,7.281795,Central,Small,Other
+HILTON-COLOMBO,"LOTUS ROAD,ECHELON SQUARE,COLOMBO 01",382,5,Colombo,Colombo,Colombo Divisional Secretariat,79.845193,6.932248,Western,Large,Luxury
+MAHAWELI REACH HOTEL,"35,P.B.A. WEERAKOON MAWATHA, KANDY",116,5,Kandy,Kandy,Kandy Divisional Secretariat,80.631227,7.325148,Central,Medium,Other
+CHAAYA BLU,"UPPAVELI, TRINCOMALEE",56,4,Trincomalee,Trincomalee,Trincomalee Divisional Secretariat,81.217522,8.617773,Eastern,Small,Other
+HABARANA VILLAGE BY CINNAMON,"P.O. BOX. 01, HABARANA.",108,4,Anuradhapura,Hingurakgoda Pradeshiya Sabha,Polonnaruwa Divisional Secretariat,80.74991,8.036549,North Central,Medium,Other
+CINNAMON CITADEL,"NO.124, SRIMATH KUDA RATWATTA MAWATHA, KANDY",121,3,Kandy,Kandy,Kandy Divisional Secretariat,80.624274,7.305864,Central,Medium,Mid-range
+HERITANCE AHUNGALLE,AHUNGALLE,154,5,Galle,Galle,Galle Divisional Secretariat,80.034536,6.31218,Southern,Medium,Other
+HERITANCE TEA FACTORY,"KANDAPOLA, NUWARAELIYA",57,4,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.833796,6.991101,Central,Small,Other
+BENTOTA BEACH HOTEL,"NATIONAL HOLIDAY RESORT, BENTOTA",133,4,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996543,6.424974,Southern,Medium,Other
+THE BLUE WATER,"THALPITIYA, WADDUWA",100,5,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.920159,6.678167,Western,Medium,Other
+GRAND HOTEL,"GRAND HOTEL ROAD, NUWARAELIYA",155,4,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.764731,6.968335,Central,Medium,Other
+AMAYA LAKE,"P.O. BOX. 12, KANDALAMA, DAMBULLA",92,4,Matale,Matale,Matale Divisional Secretariat,80.698555,7.891526,Central,Small,Other
+AMAYA HILLS,"P.O. BOX. 16, HEERASSAGALA, KANDY",100,4,Kandy,Kandy,Kandy Divisional Secretariat,80.619224,7.259008,Central,Medium,Other
+HILTON COLOMBO RESIDENCE,"NO. 200, UNION PLACE, COLOMBO 02",176,4,Colombo,Colombo,Colombo Divisional Secretariat,79.856131,6.920386,Western,Medium,Other
+MANDARA ROSEN HOTEL,"NO.57, DETAGAMUWA, KATARAGAMA",58,4,Moneragala,Galle,Moneragala Divisional Secretariat,81.326364,6.401201,,Small,Other
+RAMADA - COLOMBO,"NO.30, SIR MOHAMED MACAN MARKAR MAWATHA, COLOMBO 03",94,3,Colombo,Colombo,Colombo Divisional Secretariat,79.84778,6.921261,Western,Small,Other
+PEGASUS REEF HOTEL,"P.O.BOX. 02, HENDALA, WATTALA",140,4,Gampaha,Gampaha,Gampaha Divisional Secretariat,79.868917,6.999892,Western,Medium,Other
+MOUNT LAVINIA HOTEL,"NO. 100, HOTEL ROAD, MT. LAVINIA",204,4,Colombo,Colombo,Colombo Divisional Secretariat,79.862043,6.833151,Western,Medium,Other
+CLUB PALM BAY,"THALWILAWILIA, THUDUWAWA, MARAWILA",162,3,Puttalam,Puttalam Pradeshiya Sabha,Puttalam Divisional Secretariat,79.812589,7.434188,North Western,Medium,Mid-range
+CLUB HOTEL DOLPHIN,"KAMMAL SOUTH, WAIKKAL",151,4,Puttalam,Wennappuwa Pradeshiya Sabha,Wennappuwa Divisional Secretariat,79.839576,7.293789,North Western,Medium,Other
+JETWING BLUE,"LEWIS PLACE, NEGOMBO",108,5,Gampaha,Negombo,Negombo Divisional Secretariat,79.841797,7.241616,Western,Medium,Other
+THE DEER PARK HOTEL,"GIRITALE, POLONNARUWA",85,4,Polonnaruwa,Polonnaruwa,Polonnaruwa Divisional Secretariat,80.9218,7.989152,North Central,Small,Other
+NILAVELI BEACH HOTEL,"11TH MILE POST, NILAVELI, TRINCOMALEE",53,2,Trincomalee,Trincomalee,Trincomalee Divisional Secretariat,81.189426,8.706269,Eastern,Small,Budget
+SOROWWA RESORT AND SPA,"LAKE ROAD, HABARANE",23,3,Anuradhapura,Polonnaruwa,Polonnaruwa Divisional Secretariat,80.7508775,8.0405578,North Central,Small,Other
+PALM BEACH HOTEL,"NO. 52, DE SERAM ROAD, MOUNT LAVINIA",43,1,Colombo,Dehiwala-Mount Lavinia,Colombo Divisional Secretariat,79.864858,6.836241,Western,Small,Budget
+GALWAY FOREST LODGE,"NO. 89, UPPER LAKE ROAD, HAVELOCK DRIVE, NUWARA ELIYA.",52,3,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.769993,6.980005,Central,Small,Other
+SENANI RESTAURANT,"NO 167, RAJAPIHILLA MAWATHA, KANDY.",27,1,Kandy,Kandy,Kandy Divisional Secretariat,80.643433,7.285218,Central,Small,Budget
+GLOBAL TOWERS HOTEL,"NO.11, STATION AVENUE, COLOMBO 06.",54,3,Colombo,Colombo,Colombo Divisional Secretariat,79.857182,6.877516,Western,Small,Other
+HUNNAS FALLS HOTEL,"ELKADUWA, KANDY",31,3,Matale,Matale,Ukuwela Divisional Secretariat,80.690599,7.401023,Central,Small,Other
+GRAND ORIENTAL HOTEL,"NO.2, YORK STREET, COLOMBO 01.",72,2,Colombo,Colombo,Colombo Divisional Secretariat,79.845067,6.937474,Western,Small,Budget
+OLENKA SUNSIDE BEACH HOTEL,"THALWILA, MODERAWELLA, MARAWILA",40,2,Puttalam,Gampaha,Gampaha Divisional Secretariat,79.813377,7.42604,North Western,Small,Budget
+HOTEL SIGIRIYA,SIGIRIYA,80,1,Matale,Matale,Matale Divisional Secretariat,80.763363,7.949891,Central,Small,Budget
+THE OASIS HOTEL,"SISILASGAMA, HAMBANTOTA.",50,3,Hambantota,Hambantota,Hambantota Divisional Secretariat,81.123001,6.122001,Southern,Small,Other
+ST.ANDREWS HOTEL,"NO.10,ST.ANDREWS DRIVE,NUWARA ELIYA.",52,3,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.763855,6.979589,Central,Small,Other
+CLUB BENTOTA,"PARADISE ISLAND,ALUTHGAMA.",68,2,Galle,Aluthgama,Aluthgama,79.991648,6.437361,Southern,Small,Budget
+JETWING SEA,"PALAGITURAI, KOCHCHIKADE, NEGOMBO.",72,4,Gampaha,Gampaha,Negombo Divisional Secretariat,79.84212,7.25177,Western,Small,Other
+RANWELI HOLIDAY VILLAGE,WAIKKAL.,84,2,Puttalam,Negombo,Negombo Divisional Secretariat,79.840701,7.282694,North Western,Small,Budget
+MISUKI PLAZA HOTEL,"NO.309,COLOMBO ROAD,WELISARA,RAGAMA.",26,1,Gampaha,Ja-Ela Pradeshiya Sabha,Ja-Ela Divisional Secretariat,79.898618,7.033237,Western,Small,Budget
+TANGALLE BAY HOTELS,"MAHAWELA ROAD,PALLIKKUDUWA,TANGALLE.",28,2,Hambantota,Tangalle Pradeshiya Sabha,Tangalle Divisional Secretariat,80.789152,6.01689,Southern,Small,Budget
+THE SURF,THE SURF BENTOTA.,86,2,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996111,6.420273,Southern,Small,Budget
+VIVANTA BY TAJ-BENTOTA,"NATIONAL HOLIDAY RESORT, BENTOTA",162,5,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996423,6.417162,Southern,Medium,Other
+GOLDI SANDS HOTEL,"GOLDI SANDS HOTELS (PRIVATE) LIMITED, ETHUKALA, NEGOMBO",70,2,Gampaha,Negombo,Negombo Divisional Secretariat,79.841745,7.245416,Western,Small,Budget
+HOTEL SAPPHIRE,"NO.371,GALLE ROAD,COLOMBO 06.",40,2,Colombo,Colombo,Colombo Divisional Secretariat,79.862144,6.870956,Western,Small,Budget
+CENTARA CEYSANDS RESORT & SPA,"NATIONAL HOLIDAY RESORT,BENTOTA.",84,2,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.994388,6.430908,Southern,Small,Budget
+CAROLINA BEACH HOTEL,"AMBANKANDAWILA, CHILAW",45,2,Puttalam,Chilaw Pradeshiya Sabha,Chilaw Divisional Secretariat,79.787779,7.562663,North Western,Small,Budget
+DEVON HOTEL,"NO.51, AMPITIYA ROAD, KANDY.",25,2,Kandy,Kandy,Kandy Divisional Secretariat,80.649976,7.284506,Central,Small,Budget
+GALLE FACE HOTEL,"NO.02, GALLE ROAD, COLOMBO 03",145,3,Colombo,Colombo,Colombo Divisional Secretariat,79.84648,6.920125,Western,Medium,Mid-range
+RENUKA HOTEL,"NO.328, GALLE ROAD, COLOMBO 03",81,3,Colombo,Colombo,Colombo Divisional Secretariat,79.850428,6.908535,Western,Small,Other
+PALM GARDEN VILLAGE HOTEL,"POST 42,PUTTALAM ROAD, PANDULAGAMA, ANURADHAPURA.",50,3,Anuradhapura,Madyama Nuwaragam Palatha Pradeshiya Sabawa,Anuradhapura East,80.345324,8.314734,North Central,Small,Other
+SIGIRIYA VILLAGE HOTEL,"P.O.BOX 01, SIGIRIYA",120,3,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,80.761097,7.949584,Central,Medium,Mid-range
+THE PALMS,"N-91, 6TH LANE, MORAGALLA, BERUWALA",100,3,Kalutara,Beruwala Pradeshiya Sabha,Beruwala Divisional Secretariat,79.981157,6.449641,Western,Medium,Mid-range
+MERMAID HOTEL & CLUB,"MAHAWASKADUWA, KALUTARA",72,2,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.9449,6.61728,Western,Small,Budget
+HOTEL TOPAZ,"ANNIWATTE, KANDY",75,2,Kandy,Kandy,Ganga Ihala Korale Divisional Secretariat,80.625213,7.29056,Central,Small,Budget
+CAMELOT BEACH HOTEL,"NO.345,LEWIS PLACE,NEGOMBO.",81,1,Gampaha,Negombo,Negombo Divisional Secretariat,79.841047,7.233243,Western,Small,Budget
+THE VILLAGE,NATIONAL HOLIDAY RESORT POLONNNARUWA.,36,1,Polonnaruwa,Polonnaruwa,Polonnaruwa Divisional Secretariat,80.993096,7.924764,North Central,Small,Budget
+CENTAURIA LAKE,"NEW TOWN,EMBILIPITIYA.",52,1,Ratnapura,Embilipitiya,Embilipitiya Divisional Secretariat,80.856132,6.320182,Sabaragamuwa,Small,Budget
+KASSAPA LIONS ROCK,"DIGAMPATHAHA,KIMBISSA.",31,2,Matale,Dambulla Pradeshiya Sabha,Dambulla Divisional Secretariat,80.727282,7.979678,Central,Small,Budget
+HERITANCE NEGOMBO,"NO.175,LEWIS PLACE,NEGOMBO.",140,5,Gampaha,Negombo,Negombo Divisional Secretariat,79.838021,7.208799,Western,Medium,Other
+HIBISCUS BEACH HOTEL,"MAHAWASKADUWA,KALUTARA NORTH,KALUTHARA",51,1,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.946725,6.615207,Western,Small,Budget
+HOTEL BENTOTA VILLAGE,"ALWIS ROAD,WARAHENA,BENTOTA",14,2,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,80.004672,6.406818,Southern,Small,Budget
+COLOMBO CITY HOTEL,"LEVEL 3,NO.33,CANAL ROW,COLOMBO 01.",48,1,Colombo,Colombo,Colombo Divisional Secretariat,79.844229,6.933327,Western,Small,Budget
+HOTEL KABALANA,"KATHALUWA,AHANGAMA",22,2,Galle,Habaraduwa,Habaraduwa Divisional Secretariat,80.347884,5.977906,Southern,Small,Budget
+RAMADIA RANMAL HOLIDAY RESORT,"346/5,GALLE ROAD,GORAKANA,MORATUWA",25,1,Kalutara,Moratuwa,Moratuwa Divisional Secretariat,79.8977545,6.7636079,Western,Small,Budget
+HOTEL DULYANA,"488/18,MAITHREEPALA SENANAYAKE MW,ANURADHAPURA",30,2,Anuradhapura,Anuradhapura,N.P.East,80.405856,8.325802,North Central,Small,Budget
+INDRA REGENT HOTEL,"NO.383,R.A.D.MEL MAWATHA,COLOMBO 03",26,1,Colombo,Colombo,Thimbirigasyaya Divisional Secretariat,79.854138,6.90434,Western,Small,Budget
+HOTEL CHAMILA,"NO.85,TISSA ROAD,DETAGAMWA KATARAGAMA.",50,1,Moneragala,Thissamaharama,Katharagama Divisional Secretariat,81.33300018,6.416999817,,Small,Budget
+HOTEL SUSANTHAS,"NATIONAL HOLIDAY RESORT RD,PITARAMBA,BENTOTA",18,1,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996968,6.421783,Southern,Small,Budget
+BERJAYA MOUNT ROYAL BEACH HOTEL,"NO:36,COLLAGE AVENUE,MOUNT LAVINIA",90,1,Colombo,Moratuwa,Mount Lavinia,79.864017,6.838659,Western,Small,Budget
+NILWALA HOTEL,"NILWALA HOTEL, GALLE ROAD, KALUWAMODARA, ALUTHGAMA.",10,1,Kalutara,Aluthgama,Aluthgama,79.993697,6.439855,Western,Small,Budget
+PIGEON ISLAND BEACH HOTEL,"11TH MILE POST, NILAVELI, TRINCOMALEE.",38,2,Trincomalee,Trincomalee,Trincomalee Divisional Secretariat,81.1836029,8.712216,Eastern,Small,Budget
+GLENDOWER HOTEL,"NO:05,GRAND HOTEL ROAD,NUWARA ELIYA",20,1,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.7663938,6.9675209,Central,Small,Budget
+RANDIYA HOTEL,"389,KORALAWELLA,MORATUWA",10,1,Colombo,Moratuwa,Moratuwa Divisional Secretariat,79.8934418,6.7504834,Western,Small,Budget
+TEMPLE TREE RESORT AND SPA,"NO:660,GALLE ROAD,INDURUWA",10,2,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,80.0088026,6.385751,Southern,Small,Budget
+FULL MOON GARDEN HOTEL,"NO.754, COLOMBO ROAD, KATUNAYAKE.",30,1,Gampaha,Katana Pradeshiya Sabha,Katana Divisional Secretariat,79.874539,7.154204,Western,Small,Budget
+BARBERYN REEF AYURVEDA RESORT,"MORAGALLA,BERUWALA",75,1,Kalutara,Bentota Pradeshiya Sabha,Beruwala Divisional Secretariat,79.979952,6.4500038,Western,Small,Budget
+GIMANHALA HOTEL,754 ANURADHAPURA ROAD DAMBULLA,17,2,Matale,Matale,Dambulla Divisional Secretariat,80.650599,7.879954,Central,Small,Budget
+FIELDVIEW HOLYDAY RESORT,"ANNASIWATTE ROAD,OFF MDH,JAWARDANA MW,ATHURUGIRIYA.",10,1,Colombo,Colombo,Kesbewa Divisional Secretariat,79.986678,6.894121,Western,Small,Budget
+LAKE SERENITY,"GONAPITIYA, KURUWITA",14,2,Ratnapura,Ratnapura,Ratnapura Divisional Secretariat,80.352292,6.762787,Sabaragamuwa,Small,Budget
+KOGGALA BEACH HOTEL,"KOGGALA,HABARADUWA.",189,1,Galle,Galle,Habaraduwa Divisional Secretariat,80.3218329,5.9892056,Southern,Medium,Other
+HOTEL SUNHILL,"NO.18 UNIQUE VIEW ROAD,NUWARAELIYA",15,1,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.765424,6.963358,Central,Small,Budget
+HOTEL HILL TOP,"200/21,BAHIRAVAKANDA,PERADENIYA ROAD,KANDY",81,2,Kandy,Kandy,Kundasale Divisional Secretariat,80.628789,7.289342,Central,Small,Budget
+AVANI BENTOTA RESORT & SPA,"NATIONAL HOLIDAY RESORT,BENTOTA",90,2,Galle,Bentota Pradeshiya Sabha,Benthota Divisional Secretariat,79.996304,6.423673,Southern,Small,Budget
+AUSTRIAN BEACH RESORT,"2/A 2, BANDARAWATTA,KEMAGODA,DICKWELLA",10,1,Matara,Matara,Dickwella Divisional Secretariat,80.722005,5.978461,Southern,Small,Budget
+ROYAL LOTUS HOTEL,"GIRITHALE, POLONNARUWA.",56,2,Polonnaruwa,Polonnaruwa,Polonnaruwa Divisional Secretariat,80.921978,7.991502,North Central,Small,Budget
+RIVERDALE HOTEL,"32, ANIWATTA ROAD, KANDY.",29,2,Kandy,Kandy,Kandy Divisional Secretariat,80.621583,7.289724,Central,Small,Budget
+PARADISE HOLIDAY VILLAGE,"NO. 154/9, PORUTHOTA ROAD, PALANGATHURE, KOCHCHIKADE, NEGOMBO",33,1,Gampaha,Negombo,Negombo Divisional Secretariat,79.8422101,7.2467725,Western,Small,Budget
+KITHALA RESORT,"KATARAGAMA ROAD, THISSAMAHARAMA.",40,2,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,81.297427,6.292455,Southern,Small,Budget
+LALITHA HOTEL,"NO.200A,GALLE ROAD, PAMBURANA, MATARA.",27,2,Matara,Matara,Matara Divisional Secretariat,80.5251754,5.9442652,Southern,Small,Budget
+RATHNALOKA TOUR INN,"KOSGALA, KAHAGAMA, RATNAPURA",53,1,Ratnapura,Ratnapura,Ratnapura Divisional Secretariat,80.356453,6.713322,Sabaragamuwa,Small,Budget
+HOTEL CASAMARA,"NO.12, KATUGODELLA VIDIYA, KANDY.",33,2,Kandy,Kandy,Kandy Divisional Secretariat,80.63721,7.293367,Central,Small,Budget
+HOTEL YAPAHUWA PARADISE,"KINGDOM ROAD,YAPAHUWA,MAHO",20,2,Kurunegala,Mahawa Pradeshiya Sabha,Mahawa Divisional Secretariat,80.305903,7.82901,North Western,Small,Budget
+RANDHOLEE RESORTS,"HEERASSAGALA, BOWALAWATTE, KANDY",25,1,Kandy,Kandy,Kandy Divisional Secretariat,80.616914,7.2631411,Central,Small,Budget
+SERENE GARDEN HOTEL,"NO. 189, RAJAPIHILLA MAWATHA, KANDY",35,1,Kandy,Kandy,Kandy Divisional Secretariat,80.6441223,7.2848598,Central,Small,Budget
+WILA SAFARI HOTEL,"PANNEGAMUWA,WEERAWILA",10,1,Hambantota,Thissamaharama,Thissamaharama Divisional Secretariat,81.236615,6.293125,Southern,Small,Budget
+WINDSOR HOTEL,"NO.02, KANDY ROAD, NUWARA ELIYA.",50,1,Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Divisional Secretariat,80.770061,6.970741,Central,Small,Budget
+HOTEL ATHGIRI,"NO. 344-350, KANDY ROAD, KURUNEGALA",23,1,Kurunegala,Kurunegala,Kurunegala Divisional Secretariat,80.372245,7.479005,North Western,Small,Budget
+MIRIDIYA HOTEL,"WASALA DATHTHA MAWATHA, ANURADHAPURA",40,1,Anuradhapura,Anuradhapura,Anuradhapura East,80.4185724,8.3314154,North Central,Small,Budget
+LADY HILL,"NO. 29,UPPER DICKSON ROAD, GALLE",15,1,Galle,Galle,Galle Divisional Secretariat,80.218668,6.038658,Southern,Small,Budget
+GIRITALE HOTEL,"NATIONAL HOLIDAY RESORT, GIRITALE",40,1,Polonnaruwa,Polonnaruwa,Polonnaruwa Divisional Secretariat,80.927946,7.997114,North Central,Small,Budget
+SANMIRA RENAISSANCE,"MATARA ROAD, UNAWATUNA",20,3,Galle,Habaraduwa,Galle Divisional Secretariat,80.255045,6.006051,Southern,Small,Other
+OMEGA REGENCY,"NO. 324, GALLE ROAD, COLOMBO 06",15,1,Colombo,Colombo,Colombo Divisional Secretariat,79.862086,6.869123,Western,Small,Budget
+CHAAYA WILD YALA,"P.O. BOX. 01, KIRINDA, TISSAMAHARAMA",61,4,Hambantota,Hambantota,Hambantota Divisional Secretariat,81.405281,6.259168,Southern,Small,Other
+CHAAYA TRANZ HOTEL,"P.O. BOX. 01, GALLE ROAD, HIKKADUWA.",150,4,Galle,Hikkaduwa,Hikkaduwa Divisional Secretariat,80.100753,6.131353,Southern,Medium,Other
+HOTEL NELLY,"NO. 84, 02ND CROSS STREET, VAUNIYA",20,1,Vavuniya,Vavuniya,Vavuniya,80.499954,8.751378,Northern,Small,Budget
+THE KINGSBURY,"NO 48, JANADHIPATHI MAWATHA, COLOMBO 01",229,5,Colombo,Colombo,Colombo Divisional Secretariat,79.84247,6.933232,Western,Medium,Other
+THE GRAND KANDYAN,"89/10,LADY GORDONS DRIVE, KANDY",100,5,Kandy,Kandy,Kandy Divisional Secretariat,80.634571,7.3024019,Central,Medium,Other
+CINNAMON RED COLOMBO,"NO:59, ANANDA COOMARASWAMY MAWATHA, COLOMBO 03.",243,3,Colombo,Colombo,Colombo Divisional Secretariat,79.8530983,6.912114,Western,Medium,Mid-range
+SHANGRI-LA S HAMBANTOTA RESORT & SPA,"SITTRAKALA WATTA, CHITHRAGALA, AMBALANTOTA",300,5,Hambantota,Ambalantota Pradeshiya Sabha,Ambalantota Divisional Secretariat,81.0638697,6.1120643,Southern,Medium,Other
+MIRAGE HOTEL,"NO: 61, MOORS ROAD, MARINE DRIVE, WELLAWATTE, COLOMBO 06",60,2,Colombo,Colombo,Colombo Divisional Secretariat,79.8565303,6.8705488,Western,Small,Budget
+THE OCEAN COLOMBO,"NO-40, MELBOURNE AVENUE, COLOMBO 04.",49,1,Colombo,Colombo,Thimbirigasyaya Divisional Secretariat,79.8530075,6.8853104,Western,Small,Budget
+EARLS REGENT HOTEL,"NO. 1/40, DEVENIRAJASINGHE ROAD, PERADENIYA,KANDY",60,3,Kandy,Kandy,Kandy Divisional Secretariat,80.610734,7.283476,Central,Small,Other
+FAIRVIEW HOTEL,"NO:27, RAMKRISHNA ROAD, WELLAWATTE, COLOMBO 06",50,2,Colombo,Colombo,Colombo Divisional Secretariat,79.861298,6.865486,Western,Small,Budget
+RIU HOTEL,"GALLE ROAD, AHUNGALLE",501,5,Galle,Galle,Galle Divisional Secretariat,80.0310513,6.30957,Southern,Large,Luxury
+ANANTAYA RESORT & SPA,"COCOUNT BOARD ROAD,PASSEKUDAH,KALKUDAH",51,5,Batticaloa,Batticaloa,Batticaloa Divisional Secretariat,81.5499112,7.9315158,Eastern,Small,Other
+ANANTARA PEACE HEAVEN RESORT,"GOYAMBOKKA ESTATE,TANGALLE",152,5,Hambantota,Hambantota,Hambantota Divisional Secretariat,80.783869,6.012477,Southern,Medium,Other
+TANGERINE BEACH HOTEL,"DR ABREW ROAD,WASKADUWA,KALUTHARA",179,3,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.9472113,6.608101,Western,Medium,Mid-range
+BEST WESTERN ELYON COLOMBO,"102A, KIRULAPONE AVENUE, BASELINE ROAD, COLOMBO 05.",52,2,Colombo,Colombo,Colombo Divisional Secretariat,79.8740663,6.883736,Western,Small,Budget
+CINNAMON BEY,"MORAGOLLA BEACH,BERUWALA",200,4,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.9768792,6.4522247,Western,Medium,Other
+PEARL GRAND HOTEL,"#09,EDWARD LANE,COLOMBO 03.",90,1,Colombo,Colombo,Colombo Divisional Secretariat,79.8531936,6.8961858,Western,Small,Budget
+OCEAN EDGE SUITES,"24,10TH LANE,MARINE DRIVE,COLOMBO3",78,3,Colombo,Colombo,Colombo Divisional Secretariat,79.8499153,6.898455,Western,Small,Other
+COCO ROYAL BEACH,"WASKADUWA, KALUTHARA NORTH",70,2,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.9449985,6.6137006,Western,Small,Budget
+PARADISE BEACH HOTEL,"NO:289, LEWIS PLACE,NEGOMBO",61,1,Gampaha,Gampaha,Gampaha Divisional Secretariat,79.8386973,7.231262,Western,Small,Budget
+COLOMBO COURTYARD,"435,R.A DE MEL MAWATHA,COLOMBO 03",32,3,Colombo,Colombo,Colombo Divisional Secretariat,79.8542653,6.897765,Western,Small,Other
+HOTEL JANAKI,"43, FIFE ROAD, THIMBIRIGASYAYA,COLOMBO 05",43,1,Colombo,Colombo,Colombo Divisional Secretariat,79.8676014,6.8907555,Western,Small,Budget
+VILLA OCEAN VIEW,"200/1, MOLLIGODAWATTA,WADDUWA",143,1,Kalutara,Kalutara Pradeshiya Sabha,Kalutara Divisional Secretariat,79.9286243,6.6552759,Western,Medium,Other
+SHANGRI- LA HOTEL COLOMBO,"NO-01, CENTRE ROAD, GALLE FACE, COLOMBO 02",541,3,Colombo,Colombo,Colombo Divisional Secretariat,79.844619,6.928216,Western,Large,Mid-range
+PANDANUS BEACH RESORT & SPA,"GALLE ROAD,YALEGAMA,INDURUWA 80510",76,3,Galle,Galle,Galle Divisional Secretariat,80.0076288,6.3797342,Southern,Small,Other
+JETWING LAKE,"WIJEKUMARATHUNGA MAWATHA,YAPAGAMA,DAMBULLA.",94,4,Matale,Matale,Matale Divisional Secretariat,80.6465143,7.839867,Central,Small,Other
+THE LAKESIDE AT NUWARAWEWA,"NEW TOWN,ANURADHAPURA",70,2,Anuradhapura,Anuradhapura,Anuradhapura East,80.4129173,8.337355,North Central,Small,Budget
+THE SANCTUARY AT TISSAWEWA,"OLD TOWN,ANURADHAPURA",22,2,Anuradhapura,Anuradhapura,Anuradhapura East,80.3879227,8.3423584,North Central,Small,Budget
+OZO KANDY,"NO31,SARANANKARA ROAD,KANDY",122,3,Kandy,Kandy,Kandy Divisional Secretariat,80.6405117,7.2883697,Central,Medium,Mid-range
+THE GOLDEN CROWN HOTEL,"322,UDAGAMA,AMPITIYA",63,3,Kandy,Gagawata Koralya,Gagawata,80.655418,7.277162,Central,Small,Other
+GRAND UDAWALAWE SAFARI RESORT,"NO 912, THANAMALVILA ROAD,UDAWALAWA",57,4,Ratnapura,Udawalawa,Embilipitiya Divisional Secretariat,80.8040993,6.419811,Sabaragamuwa,Small,Other
+LAVANGA RESORT AND SPA,"GALLE ROAD,PATHUWATHA,HIKKADUWA",20,2,Galle,Hikkaduwa,Hikkaduwa Divisional Secretariat,80.1175713,6.115437,Southern,Small,Budget
