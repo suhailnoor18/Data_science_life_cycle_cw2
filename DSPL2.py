@@ -3,20 +3,20 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Set full-width layout
+# Setting full-width layout
 st.set_page_config(page_title="Sri Lanka Hotel Insights", layout="wide")
 
 # --- LOAD DATA ---
 df = pd.read_csv("cleaned_hotels_data.csv")
-df = df.rename(columns={"Logitiute": "Longitude"})  # Fix typo if exists
+df = df.rename(columns={"Logitiute": "Longitude"})  
 
 # --- SIDEBAR NAVIGATION ---
 st.sidebar.title(" Hotel Analytics Dashboard")
-page = st.sidebar.radio("Navigate to:", ["Overview & Summary", "Dashboard"], index=0)  # Removed Download Data
+page = st.sidebar.radio("Navigate to:", ["Overview & Summary", "Dashboard"], index=0)  
 
 # --- OVERVIEW PAGE ---
 if page == "Overview & Summary":
-    # Embed background image (from same directory)
+   
     import base64
 
     def get_base64_image(image_path):
@@ -24,7 +24,7 @@ if page == "Overview & Summary":
             encoded = base64.b64encode(img_file.read()).decode()
         return f"data:image/jpg;base64,{encoded}"
 
-    image_base64 = get_base64_image("Hotelbackground.jpeg")  # your image file in the same folder
+    image_base64 = get_base64_image("Hotelbackground.jpeg")  
 
     st.markdown(
         f"""
@@ -198,7 +198,8 @@ elif page == "Dashboard":
 
         fig_map.update_layout(
             mapbox_style='open-street-map',
-            margin={"r":0,"t":0,"l":0,"b":0}
+            margin={"r":0,"t":0,"l":0,"b":0},
+            dragmode='zoom'
         )
 
         st.plotly_chart(fig_map, use_container_width=True)
