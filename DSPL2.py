@@ -6,15 +6,15 @@ import plotly.graph_objects as go
 # Setting full-width layout
 st.set_page_config(page_title="Sri Lanka Hotel Insights", layout="wide")
 
-# --- LOAD DATA ---
+#  DATA LOADING
 df = pd.read_csv("cleaned_hotels_data.csv")
 df = df.rename(columns={"Logitiute": "Longitude"})  
 
-# --- SIDEBAR NAVIGATION ---
+#  SIDEBAR NAVIGATION 
 st.sidebar.title(" Hotel Analytics Dashboard")
 page = st.sidebar.radio("Navigate to:", ["Overview & Summary", "Dashboard"], index=0)  
 
-# --- OVERVIEW PAGE ---
+#  OVERVIEW PAGE 
 if page == "Overview & Summary":
    
     import base64
@@ -54,7 +54,7 @@ if page == "Overview & Summary":
     st.write("### Descriptive Statistics:")
     st.dataframe(df.describe(include='all').transpose(), use_container_width=True)
 
-# --- DASHBOARD PAGE ---
+#  DASHBOARD PAGE 
 elif page == "Dashboard":
     # Sidebar filters
     st.sidebar.markdown("#### 🎯 Filter the data below:")
@@ -85,7 +85,7 @@ elif page == "Dashboard":
         if st.checkbox("Show complete dataset"):
             st.dataframe(df, use_container_width=True)
 
-    # --- KPIs ---
+    #  KPIs 
     kpi1, kpi2, kpi3 = st.columns(3)
 
     # Total Hotels
@@ -93,17 +93,17 @@ elif page == "Dashboard":
 
     # Avg. Rooms with NaN check
     avg_rooms = df_filtered["Rooms"].mean()
-    kpi2.metric("Avg. Rooms", int(avg_rooms) if not pd.isna(avg_rooms) else 0)  # Replace NaN with 0
+    kpi2.metric("Avg. Rooms", int(avg_rooms) if not pd.isna(avg_rooms) else 0) 
 
     # Avg. Grade with NaN check
     avg_grade = df_filtered["Grade"].mean()
-    kpi3.metric("Avg. Grade", round(avg_grade, 2) if not pd.isna(avg_grade) else 0)  # Replace NaN with 0
+    kpi3.metric("Avg. Grade", round(avg_grade, 2) if not pd.isna(avg_grade) else 0)  
 
     if df_filtered.empty:
         st.warning("⚠️ No data available for selected filters. Please adjust them.")
         st.stop()
 
-    # --- INSIGHTS ---
+    #  INSIGHTS 
     st.markdown("### 📊 Key Insights")
 
     # Insight 1: Hotel Distribution by Province
@@ -206,7 +206,7 @@ elif page == "Dashboard":
     else:
         st.warning("Latitude and Longitude columns are missing for map visualization.")
 
-    # --- DOWNLOAD BUTTON ---
+    #  DOWNLOAD BUTTON 
     csv = df_filtered.to_csv(index=False)
     st.download_button("📥 Download Filtered Data", data=csv, file_name="filtered_hotels.csv", mime="text/csv")
 
